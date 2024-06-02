@@ -1,4 +1,4 @@
-# Database Engineer Capstone Project - Developed by Ariyo
+# Meta Database Engineer Capstone Project Course - Developed by Ariyo
 
 I developed a data model for Little Lemon Restaurant and implemented it in a MySQL database, comprising various tables to accommodate pertinent information. I've also inserted sample data into these tables for testing. Moreover, I conducted data analysis using the Little Lemon Excel Data File and finalized the analysis using Tableau.
 

@@ -1,5 +1,4 @@
--- Task 2
--- In the second task, Little Lemon need you to help them to create a prepared statement called GetOrderDetail. 
+-- Little Lemon need you to help them to create a prepared statement called GetOrderDetail. 
 -- This prepared statement will help to reduce the parsing time of queries. 
 -- It will also help to secure the database from SQL injections.
 
